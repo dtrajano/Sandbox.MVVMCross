@@ -101,6 +101,19 @@
     <Compile Include="Views\HomeView\HomeView.designer.cs">
       <DependentUpon>HomeView.cs</DependentUpon>
     </Compile>
+    <Compile Include="Views\BaseView.cs" />
+    <Compile Include="Views\MyMenuView\MyMenuView.cs" />
+    <Compile Include="Views\MyMenuView\MyMenuView.designer.cs">
+      <DependentUpon>MyMenuView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\PreferencesView\PreferencesView.cs" />
+    <Compile Include="Views\PreferencesView\PreferencesView.designer.cs">
+      <DependentUpon>PreferencesView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FirstOption\FirstOptionView.cs" />
+    <Compile Include="Views\FirstOption\FirstOptionView.designer.cs">
+      <DependentUpon>FirstOptionView.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Setup.cs" />
@@ -113,6 +126,9 @@
     </InterfaceDefinition>
     <InterfaceDefinition Include="Resources\LaunchScreen.xib" />
     <InterfaceDefinition Include="Views\HomeView\HomeView.storyboard" />
+    <InterfaceDefinition Include="Views\MyMenuView\MyMenuView.xib" />
+    <InterfaceDefinition Include="Views\PreferencesView\PreferencesView.xib" />
+    <InterfaceDefinition Include="Views\FirstOption\FirstOptionView.xib" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -203,6 +219,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\HomeView\" />
+    <Folder Include="Views\MyMenuView\" />
+    <Folder Include="Views\PreferencesView\" />
+    <Folder Include="Views\FirstOption\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>

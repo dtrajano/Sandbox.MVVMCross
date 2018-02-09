@@ -1,24 +1,24 @@
 ﻿<Properties StartupConfiguration="{D39A7B19-6EF8-43AA-BF2A-0AAE86998692}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/Views/HomeView/HomeView.storyboard">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/Views/FirstView.cs">
     <Files>
-      <File FileName="Sandbox.MVVMCross/Sandbox.MVVMCross.Core/ViewModels/HomeViewModel.cs" Line="26" Column="15" />
-      <File FileName="Sandbox.MVVMCross/Sandbox.MVVMCross.Core/ViewModels/FirstViewModel.cs" Line="33" Column="2" />
-      <File FileName="Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/Views/FirstView.cs" Line="22" Column="27" />
-      <File FileName="Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/Views/FirstView.storyboard" />
-      <File FileName="Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/Views/HomeView/HomeView.storyboard" />
-      <File FileName="Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/Views/FirstView.designer.cs" Line="1" Column="1" />
-      <File FileName="Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/Main.cs" Line="12" Column="1" />
-      <File FileName="Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/Views/HomeView/HomeView.cs" Line="22" Column="10" />
-      <File FileName="Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/Views/HomeView/HomeView.designer.cs" Line="22" Column="25" />
+      <File FileName="Sandbox.MVVMCross/Sandbox.MVVMCross.Core/ViewModels/HomeViewModel.cs" Line="47" Column="13" />
+      <File FileName="Sandbox.MVVMCross/Sandbox.MVVMCross.Core/ViewModels/BaseViewModel.cs" Line="6" Column="46" />
+      <File FileName="Sandbox.MVVMCross/Sandbox.MVVMCross.Core/ViewModels/FirstOptionViewModel.cs" Line="9" Column="34" />
+      <File FileName="Sandbox.MVVMCross/Sandbox.MVVMCross.Core/ViewModels/FirstViewModel.cs" Line="29" Column="24" />
+      <File FileName="Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/Views/FirstView.cs" Line="39" Column="79" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/mac/Projetos/Sandbox.MVVMCross/Sandbox.MVVMCross/Sandbox.MVVMCross.Core/ControlViewModels/TabViewControlViewModel.cs" relfile="Sandbox.MVVMCross/Sandbox.MVVMCross.Core/ControlViewModels/TabViewControlViewModel.cs" line="27" column="79" />
+      <Breakpoint file="/Users/mac/Projetos/Sandbox.MVVMCross/Sandbox.MVVMCross/Sandbox.MVVMCross.Core/ControlViewModels/TabViewControlViewModel.cs" relfile="Sandbox.MVVMCross/Sandbox.MVVMCross.Core/ControlViewModels/TabViewControlViewModel.cs" line="15" column="1" />
+      <Breakpoint file="/Users/mac/Projetos/Sandbox.MVVMCross/Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/Views/FirstOption/FirstOptionView.cs" relfile="Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/Views/FirstOption/FirstOptionView.cs" line="19" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Sandbox.MVVMCross.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0C5F856A-C392-4CBC-8F1D-BE7ECE3C3177" />
+  <MonoDevelop.Ide.ItemProperties.Sandbox.MVVMCross.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.992FA722-E1FD-49B7-9DC6-34D9F426F0BC" />
   <DisabledProjects>
     <String>Sandbox.MVVMCross/Sandbox.MVVMCross.Droid/Sandbox.MVVMCross.Droid.csproj</String>
   </DisabledProjects>

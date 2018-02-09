@@ -449,19 +449,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/dtrajano/.nuget/packages/": {}
+    "/Users/mac/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dtrajano/Workspaces/Sandbox/Sandbox.MVVMCross/Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/Sandbox.MVVMCross.iOS.csproj",
+      "projectUniqueName": "/Users/mac/Projetos/Sandbox.MVVMCross/Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/Sandbox.MVVMCross.iOS.csproj",
       "projectName": "Sandbox.MVVMCross.iOS",
-      "projectPath": "/Users/dtrajano/Workspaces/Sandbox/Sandbox.MVVMCross/Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/Sandbox.MVVMCross.iOS.csproj",
-      "packagesPath": "/Users/dtrajano/.nuget/packages/",
-      "outputPath": "/Users/dtrajano/Workspaces/Sandbox/Sandbox.MVVMCross/Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/obj",
+      "projectPath": "/Users/mac/Projetos/Sandbox.MVVMCross/Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/Sandbox.MVVMCross.iOS.csproj",
+      "packagesPath": "/Users/mac/.nuget/packages/",
+      "outputPath": "/Users/mac/Projetos/Sandbox.MVVMCross/Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/dtrajano/.config/NuGet/NuGet.Config"
+        "/Users/mac/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
@@ -472,8 +472,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/dtrajano/Workspaces/Sandbox/Sandbox.MVVMCross/Sandbox.MVVMCross/Sandbox.MVVMCross.Core/Sandbox.MVVMCross.Core.csproj": {
-              "projectPath": "/Users/dtrajano/Workspaces/Sandbox/Sandbox.MVVMCross/Sandbox.MVVMCross/Sandbox.MVVMCross.Core/Sandbox.MVVMCross.Core.csproj"
+            "/Users/mac/Projetos/Sandbox.MVVMCross/Sandbox.MVVMCross/Sandbox.MVVMCross.Core/Sandbox.MVVMCross.Core.csproj": {
+              "projectPath": "/Users/mac/Projetos/Sandbox.MVVMCross/Sandbox.MVVMCross/Sandbox.MVVMCross.Core/Sandbox.MVVMCross.Core.csproj"
             }
           }
         }

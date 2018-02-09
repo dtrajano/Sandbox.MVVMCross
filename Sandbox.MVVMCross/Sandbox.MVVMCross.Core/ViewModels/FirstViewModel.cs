@@ -26,7 +26,7 @@ namespace Sandbox_MVVMCross.Core.ViewModels
             get 
             { 
                 string lastName = "Oliveira";
-                return new MvxCommand(() => _navigationService.Navigate<HomeViewModel, string>(lastName)); 
+                return new MvxCommand(() => _navigationService.Navigate<FirstOptionViewModel>()); 
             }
         }
     }

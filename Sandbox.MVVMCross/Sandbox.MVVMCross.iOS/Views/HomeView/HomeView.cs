@@ -19,6 +19,7 @@ namespace Sandbox_MVVMCross.iOS.Views.HomeView
             base.ViewDidLoad();
             var set = this.CreateBindingSet<HomeView, HomeViewModel>();
             set.Bind(lblTitle).To(vm=>vm.Name);
+            set.Bind(btnFirstOption).To(vm=>vm.GoFirstOption);
             set.Apply();
         }
     }
