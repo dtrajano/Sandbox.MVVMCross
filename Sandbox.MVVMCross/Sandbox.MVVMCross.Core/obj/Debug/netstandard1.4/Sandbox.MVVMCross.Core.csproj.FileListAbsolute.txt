@@ -1,0 +1,9 @@
+/Users/dtrajano/Workspaces/Sandbox/Sandbox.MVVMCross/Sandbox.MVVMCross/Sandbox.MVVMCross.Core/bin/Debug/netstandard1.4/Sandbox.MVVMCross.Core.deps.json
+/Users/dtrajano/Workspaces/Sandbox/Sandbox.MVVMCross/Sandbox.MVVMCross/Sandbox.MVVMCross.Core/bin/Debug/netstandard1.4/Sandbox.MVVMCross.Core.dll
+/Users/dtrajano/Workspaces/Sandbox/Sandbox.MVVMCross/Sandbox.MVVMCross/Sandbox.MVVMCross.Core/bin/Debug/netstandard1.4/Sandbox.MVVMCross.Core.pdb
+/Users/dtrajano/Workspaces/Sandbox/Sandbox.MVVMCross/Sandbox.MVVMCross/Sandbox.MVVMCross.Core/obj/Debug/netstandard1.4/Sandbox.MVVMCross.Core.csproj.CoreCompileInputs.cache
+/Users/dtrajano/Workspaces/Sandbox/Sandbox.MVVMCross/Sandbox.MVVMCross/Sandbox.MVVMCross.Core/obj/Debug/netstandard1.4/Sandbox.MVVMCross.Core.AssemblyInfoInputs.cache
+/Users/dtrajano/Workspaces/Sandbox/Sandbox.MVVMCross/Sandbox.MVVMCross/Sandbox.MVVMCross.Core/obj/Debug/netstandard1.4/Sandbox.MVVMCross.Core.AssemblyInfo.cs
+/Users/dtrajano/Workspaces/Sandbox/Sandbox.MVVMCross/Sandbox.MVVMCross/Sandbox.MVVMCross.Core/obj/Debug/netstandard1.4/Sandbox.MVVMCross.Core.dll
+/Users/dtrajano/Workspaces/Sandbox/Sandbox.MVVMCross/Sandbox.MVVMCross/Sandbox.MVVMCross.Core/obj/Debug/netstandard1.4/Sandbox.MVVMCross.Core.pdb
+/Users/dtrajano/Workspaces/Sandbox/Sandbox.MVVMCross/Sandbox.MVVMCross/Sandbox.MVVMCross.Core/obj/Debug/netstandard1.4/Sandbox.MVVMCross.Core.csprojResolveAssemblyReference.cache

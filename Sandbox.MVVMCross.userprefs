@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D39A7B19-6EF8-43AA-BF2A-0AAE86998692}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/Views/HomeView/HomeView.storyboard">
+    <Files>
+      <File FileName="Sandbox.MVVMCross/Sandbox.MVVMCross.Core/ViewModels/HomeViewModel.cs" Line="26" Column="15" />
+      <File FileName="Sandbox.MVVMCross/Sandbox.MVVMCross.Core/ViewModels/FirstViewModel.cs" Line="33" Column="2" />
+      <File FileName="Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/Views/FirstView.cs" Line="22" Column="27" />
+      <File FileName="Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/Views/FirstView.storyboard" />
+      <File FileName="Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/Views/HomeView/HomeView.storyboard" />
+      <File FileName="Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/Views/FirstView.designer.cs" Line="1" Column="1" />
+      <File FileName="Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/Main.cs" Line="12" Column="1" />
+      <File FileName="Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/Views/HomeView/HomeView.cs" Line="22" Column="10" />
+      <File FileName="Sandbox.MVVMCross/Sandbox.MVVMCross.iOS/Views/HomeView/HomeView.designer.cs" Line="22" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Sandbox.MVVMCross.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0C5F856A-C392-4CBC-8F1D-BE7ECE3C3177" />
+  <DisabledProjects>
+    <String>Sandbox.MVVMCross/Sandbox.MVVMCross.Droid/Sandbox.MVVMCross.Droid.csproj</String>
+  </DisabledProjects>
+</Properties>
